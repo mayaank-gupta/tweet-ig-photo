@@ -1,0 +1,26 @@
+{
+  "name": "tweet-ig-photo",
+  "version": "1.0.0",
+  "description": "A simple project of tweeting latest instagram photos for a hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaank-gupta/tweet-ig-photo.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs",
+    "twitter",
+    "automation",
+    "npm"
+  ],
+  "author": "Mayank Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayaank-gupta/tweet-ig-photo/issues"
+  },
+  "homepage": "https://github.com/mayaank-gupta/tweet-ig-photo#readme"
+}
